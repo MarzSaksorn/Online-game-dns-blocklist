@@ -1,6 +1,6 @@
 # Online-game-dns-blocklist
 
-Report Issues at https://github.com/MarzSaksorn/Online-game-dns-blocklist/issues
+Report Issues or Suggest Games at https://github.com/MarzSaksorn/Online-game-dns-blocklist/issues
 
 Online game blocklist for School to prevent Students from access to Popular online games
 
