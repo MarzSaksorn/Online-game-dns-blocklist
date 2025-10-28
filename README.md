@@ -8,4 +8,4 @@ Online game blocklist for School to prevent Students from access to Popular onli
 
 This list only include Online games like Y8 and Crazygames and Popular online games that does not include knowledge or potential education
 
-***This does not include Games like Chess and coolmathgames Because It is a kind of Education kind of game***
+***This does not include Games like Chess, coolmathgames and 2048 Because It is a kind of Education kind of game***
