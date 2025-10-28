@@ -1,0 +1,44 @@
+[Online Game Block]
+! Title: MarzSaksorn's Online Game Blocklist
+! Description: Online Game Blocklist for Parents and Schools to block Online games from Students preventing them from getting distracted 
+! Homepage: https://github.com/MarzSaksorn/Online-game-dns-blocklist
+! License: https://github.com/MarzSaksorn/Online-game-dns-blocklist/blob/main/LICENSE
+! Issues: https://github.com/MarzSaksorn/Online-game-dns-blocklist/issues
+
+||y8.com^
+||y8.org^
+||y8.net^
+||crazygames.com^
+||poki.com^
+||pogo.com^
+||codenames.game^
+||playhop.com^
+||now.gg
+||kongregate.com^
+||arkadium.com^
+||agar.io^
+||Lordz.io^
+||Slither.io^
+||Worms.Zone^
+||Diep.io^
+||ZombsRoyale.io^
+||Krunker.io^
+||hole.io^
+||mope.io^
+||wings.io^
+||moomoo.io^
+||brutal.io^
+||gartic.io^
+Anomal.io
+evoworld.io
+AntWar.io
+Aquapark.io
+Aquar.io
+Arrow.io
+Astr.io
+Astro.io
+Astrar.io
+astroe.io
+Arras.io
+battlechips.io
+Backrooms.io
