@@ -6,7 +6,7 @@
 ! Issues: https://github.com/MarzSaksorn/Online-game-dns-blocklist/issues
 
 ||y8.com^
-th.y8.com
+||th.y8.com^
 ||y8.org^
 ||y8.net^
 ||crazygames.com^
