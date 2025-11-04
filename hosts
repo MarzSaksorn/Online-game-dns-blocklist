@@ -21,7 +21,7 @@
 #	::1             localhost
 
 127.0.0.1   y8.com
-  127.0.0.1 y8.com
+  127.0.0.1 th.y8.com
   127.0.0.1 crazygames.com
   127.0.0.1 pogo.com
   127.0.0.1 poki.com
@@ -47,7 +47,34 @@
   127.0.0.1 bitheroesarena.io
   127.0.0.1 arras.io
   127.0.0.1 battlechips.io
-  
+
+  127.0.0.1   www.y8.com
+  127.0.0.1 th.y8.com
+  127.0.0.1 www.crazygames.com
+  127.0.0.1 www.pogo.com
+  127.0.0.1 www.poki.com
+  127.0.0.1 www.now.gg
+  127.0.0.1 www.playhop.com
+  127.0.0.1 www.playok.com
+  127.0.0.1 www.aarp.com
+  127.0.0.1 www.onlinegames.io
+  127.0.0.1 www.kongregate.com
+  127.0.0.1 www.agame.com
+  127.0.0.1 www.king.com
+  127.0.0.1 www.bgames.com
+  127.0.0.1 www.playgama.com
+  127.0.0.1 www.timepass.games
+  127.0.0.1 www.kizi.com
+  127.0.0.1 www.allwebgames.com
+  127.0.0.1 www.agar.io
+  127.0.0.1 www.Slither.io
+  127.0.0.1 www.Diep.io
+  127.0.0.1 www.krunker.io
+  127.0.0.1 www.craftnite.io
+  127.0.0.1 www.acolyte.easel.games
+  127.0.0.1 www.bitheroesarena.io
+  127.0.0.1 www.arras.io
+  127.0.0.1 www.battlechips.io
   
   
   
