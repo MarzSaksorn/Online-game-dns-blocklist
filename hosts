@@ -1,108 +1,273 @@
-# Copyright (c) 1993-2009 Microsoft Corp.
-#
-# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
-#
-# This file contains the mappings of IP addresses to host names. Each
-# entry should be kept on an individual line. The IP address should
-# be placed in the first column followed by the corresponding host name.
-# The IP address and the host name should be separated by at least one
-# space.
-#
-# Additionally, comments (such as these) may be inserted on individual
-# lines or following the machine name denoted by a '#' symbol.
-#
-# For example:
-#
-#      102.54.94.97     rhino.acme.com          # source server
-#       38.25.63.10     x.acme.com              # x client host
+# [Online Game Block]
+# Title: MarzSaksorn's Online Game Blocklist
+# Converted for Windows Hosts File
 
-# localhost name resolution is handled within DNS itself.
-#	127.0.0.1       localhost
-#	::1             localhost
-
-127.0.0.1   y8.com
-  127.0.0.1 th.y8.com
-  127.0.0.1 crazygames.com
-  127.0.0.1 th.crazygames.com 
-  127.0.0.1 pogo.com
-  127.0.0.1 poki.com
-  127.0.0.1 now.gg
-  127.0.0.1 playhop.com
-  127.0.0.1 playok.com
-  127.0.0.1 aarp.com
-  127.0.0.1 onlinegames.io
-  127.0.0.1 kongregate.com
-  127.0.0.1 agame.com
-  127.0.0.1 king.com
-  127.0.0.1 bgames.com
-  127.0.0.1 playgama.com
-  127.0.0.1 timepass.games
-  127.0.0.1 kizi.com
-  127.0.0.1 allwebgames.com
-  127.0.0.1 agar.io
-  127.0.0.1 Slither.io
-  127.0.0.1 Diep.io
-  127.0.0.1 krunker.io
-  127.0.0.1 craftnite.io
-  127.0.0.1 acolyte.easel.games
-  127.0.0.1 bitheroesarena.io
-  127.0.0.1 arras.io
-  127.0.0.1 battlechips.io
-
-  127.0.0.1   www.y8.com
-  127.0.0.1 th.y8.com
-  127.0.0.1 www.crazygames.com
-  127.0.0.1 www.pogo.com
-  127.0.0.1 www.poki.com
-  127.0.0.1 www.now.gg
-  127.0.0.1 www.playhop.com
-  127.0.0.1 www.playok.com
-  127.0.0.1 www.aarp.com
-  127.0.0.1 www.onlinegames.io
-  127.0.0.1 www.kongregate.com
-  127.0.0.1 www.agame.com
-  127.0.0.1 www.king.com
-  127.0.0.1 www.bgames.com
-  127.0.0.1 www.playgama.com
-  127.0.0.1 www.timepass.games
-  127.0.0.1 www.kizi.com
-  127.0.0.1 www.allwebgames.com
-  127.0.0.1 www.agar.io
-  127.0.0.1 www.Slither.io
-  127.0.0.1 www.Diep.io
-  127.0.0.1 www.krunker.io
-  127.0.0.1 www.craftnite.io
-  127.0.0.1 www.acolyte.easel.games
-  127.0.0.1 www.bitheroesarena.io
-  127.0.0.1 www.arras.io
-  127.0.0.1 www.battlechips.io
-  127.0.0.1 www.friv.com
-  127.0.0.1 friv.com
-  127.0.0.1 y8.in.th
-  127.0.0.1 www.y8.in.th
-
-127.0.0.1 th.pogo.com
-  127.0.0.1 th.poki.com
-  127.0.0.1 th.now.gg
-  127.0.0.1 th.playhop.com
-  127.0.0.1 th.playok.com
-  127.0.0.1 th.aarp.com
-  127.0.0.1 th.onlinegames.io
-  127.0.0.1 th.kongregate.com
-  127.0.0.1 th.agame.com
-  127.0.0.1 th.king.com
-  127.0.0.1 th.bgames.com
-  127.0.0.1 th.playgama.com
-  127.0.0.1 th.timepass.games
-  127.0.0.1 th.kizi.com
-  127.0.0.1 th.allwebgames.com
-  127.0.0.1 th.agar.io
-  127.0.0.1 th.Slither.io
-  127.0.0.1 th.Diep.io
-  127.0.0.1 th.krunker.io
-  127.0.0.1 th.craftnite.io
-  127.0.0.1 th.acolyte.easel.games
-  127.0.0.1 th.bitheroesarena.io
-  127.0.0.1 th.arras.io
-  127.0.0.1 th.battlechips.io
-  
+0.0.0.0 y8.com
+0.0.0.0 th.y8.com
+0.0.0.0 y8.org
+0.0.0.0 y8.net
+0.0.0.0 crazygames.com
+0.0.0.0 poki.com
+0.0.0.0 pogo.com
+0.0.0.0 codenames.game
+0.0.0.0 playhop.com
+0.0.0.0 now.gg
+0.0.0.0 kongregate.com
+0.0.0.0 arkadium.com
+0.0.0.0 agar.io
+0.0.0.0 Lordz.io
+0.0.0.0 Slither.io
+0.0.0.0 Worms.Zone
+0.0.0.0 Diep.io
+0.0.0.0 ZombsRoyale.io
+0.0.0.0 Krunker.io
+0.0.0.0 hole.io
+0.0.0.0 mope.io
+0.0.0.0 wings.io
+0.0.0.0 moomoo.io
+0.0.0.0 brutal.io
+0.0.0.0 gartic.io
+0.0.0.0 Anomal.io
+0.0.0.0 evoworld.io
+0.0.0.0 AntWar.io
+0.0.0.0 Aquapark.io
+0.0.0.0 Aquar.io
+0.0.0.0 Arrow.io
+0.0.0.0 Astr.io
+0.0.0.0 Astrar.io
+0.0.0.0 astroe.io
+0.0.0.0 Arras.io
+0.0.0.0 battlechips.io
+0.0.0.0 Backrooms.io
+0.0.0.0 bcgame48.com
+0.0.0.0 Battleboats.io
+0.0.0.0 BattleDudes.io
+0.0.0.0 BattleshipGame.io
+0.0.0.0 Basher.io
+0.0.0.0 Bellum.io
+0.0.0.0 BigHunter.io
+0.0.0.0 Bist.io
+0.0.0.0 Biters.io
+0.0.0.0 Blable.io
+0.0.0.0 BlackHole.io
+0.0.0.0 BlastArena.io
+0.0.0.0 Blobe.io
+0.0.0.0 Blobie.io
+0.0.0.0 Blockor.io
+0.0.0.0 Blong.io
+0.0.0.0 Bloxd.io
+0.0.0.0 Boas.io
+0.0.0.0 Boattle.io
+0.0.0.0 BombsGame.io
+0.0.0.0 Bonk.io
+0.0.0.0 Braains.io
+0.0.0.0 Brutal.io
+0.0.0.0 BrutalMania.io
+0.0.0.0 Brutes.io
+0.0.0.0 BubbleBee.io
+0.0.0.0 BubbleTrouble.io
+0.0.0.0 BuildRoyale.io
+0.0.0.0 Bumper.io
+0.0.0.0 CarArena.io
+0.0.0.0 Carball.io
+0.0.0.0 Cardgames.io
+0.0.0.0 Catac.io
+0.0.0.0 Cavegame.io
+0.0.0.0 Cellcraft.io
+0.0.0.0 Cellix.io
+0.0.0.0 Chompers.io
+0.0.0.0 Circu.io
+0.0.0.0 Clay.io
+0.0.0.0 Copter.io
+0.0.0.0 CrazySteve.io
+0.0.0.0 Crossy.io
+0.0.0.0 curvefever.io
+0.0.0.0 Curvefever2.io
+0.0.0.0 DeadShot.io
+0.0.0.0 Deeeep.io
+0.0.0.0 Defly.io
+0.0.0.0 Devast.io
+0.0.0.0 Digdig.io
+0.0.0.0 Doblons.io
+0.0.0.0 Dodgeballs.io
+0.0.0.0 Dogargame.io
+0.0.0.0 Dotz.io
+0.0.0.0 Dragon.io
+0.0.0.0 Driftin.io
+0.0.0.0 Eatme.io
+0.0.0.0 Electoral.io
+0.0.0.0 Elemantar.io
+0.0.0.0 Elites.io
+0.0.0.0 Evowars.io
+0.0.0.0 EvoWorld.io
+0.0.0.0 ev.io
+0.0.0.0 FacePunch.io
+0.0.0.0 Farmers.io
+0.0.0.0 FightArena.io
+0.0.0.0 Fisp.io
+0.0.0.0 Flar.io
+0.0.0.0 Florr.io
+0.0.0.0 Generals.io
+0.0.0.0 Germs.io
+0.0.0.0 Globule.io
+0.0.0.0 Goons.io
+0.0.0.0 Gota.io
+0.0.0.0 Gpop.io
+0.0.0.0 GravityGame.io
+0.0.0.0 GunGame.io
+0.0.0.0 GunR.io
+0.0.0.0 guivo.io
+0.0.0.0 Hexagor.io
+0.0.0.0 Hexanaut.io
+0.0.0.0 Hexar.io
+0.0.0.0 hexasnakeonline.com
+0.0.0.0 Hilly.io
+0.0.0.0 Hole.io
+0.0.0.0 Hops.io
+0.0.0.0 hopz.io
+0.0.0.0 hordes.io
+0.0.0.0 Hunt.io
+0.0.0.0 ImSolo.pro
+0.0.0.0 Jellies.io
+0.0.0.0 Jomp.io
+0.0.0.0 jukegame.io
+0.0.0.0 Kartwars.io
+0.0.0.0 Kingz.io
+0.0.0.0 Knife.io
+0.0.0.0 Krew.io
+0.0.0.0 Landix.io
+0.0.0.0 Lazardrive.io
+0.0.0.0 Lazr.io
+0.0.0.0 Leevz.io
+0.0.0.0 LittleBigSnake.io
+0.0.0.0 LOLbeans.io
+0.0.0.0 lolo.games
+0.0.0.0 Looz.io
+0.0.0.0 Losts.io
+0.0.0.0 Lumen.io
+0.0.0.0 Lurkers.io
+0.0.0.0 Massacre.io
+0.0.0.0 Massivematch.io
+0.0.0.0 match.io
+0.0.0.0 Match2.io
+0.0.0.0 Maze.io
+0.0.0.0 Meduzzza.io
+0.0.0.0 Minesweeper.io
+0.0.0.0 MiniGiants.io
+0.0.0.0 Mobg.io
+0.0.0.0 MudWars.io
+0.0.0.0 MyBall.io
+0.0.0.0 Myfrog.io
+0.0.0.0 MyPuppet.io
+0.0.0.0 Nafk.io
+0.0.0.0 Narwhale.io
+0.0.0.0 NBK.io
+0.0.0.0 Nightwalkers.io
+0.0.0.0 Ninja.io
+0.0.0.0 Occup.io
+0.0.0.0 Oceanar.io
+0.0.0.0 Openfront.io
+0.0.0.0 opka.io
+0.0.0.0 orn.io
+0.0.0.0 Overmind.io
+0.0.0.0 powerline.io
+0.0.0.0 Pacman.io
+0.0.0.0 Paper.io
+0.0.0.0 Petridish.io
+0.0.0.0 Pikan.io
+0.0.0.0 Pikes.io
+0.0.0.0 Pirac.io
+0.0.0.0 Piranh.io
+0.0.0.0 Planes.io
+0.0.0.0 Potato.io
+0.0.0.0 PPEP.io
+0.0.0.0 Prisonlifegame.com
+0.0.0.0 PunG.io
+0.0.0.0 racegame.io
+0.0.0.0 RangerSteve.io
+0.0.0.0 Realmz.io
+0.0.0.0 Roams.io
+0.0.0.0 Rops.io
+0.0.0.0 Rubin.io
+0.0.0.0 Salmonz.io
+0.0.0.0 Scenexe2.io
+0.0.0.0 Scorpo.io
+0.0.0.0 SeaDragons.io
+0.0.0.0 SF.io
+0.0.0.0 Shapez.io
+0.0.0.0 Share.io
+0.0.0.0 Shark.io
+0.0.0.0 Shipz.io
+0.0.0.0 Shooter.io
+0.0.0.0 Shooters.io
+0.0.0.0 Skap.io
+0.0.0.0 Sketchwar.io
+0.0.0.0 Skribbl.io
+0.0.0.0 Skyfight.io
+0.0.0.0 SkyRoyale.io
+0.0.0.0 Sl4sh.io
+0.0.0.0 slain.io
+0.0.0.0 Slice.io
+0.0.0.0 Slimes.io
+0.0.0.0 Slither3d.io
+0.0.0.0 Smashers.io
+0.0.0.0 Smashkarts.io
+0.0.0.0 Smashycars.io
+0.0.0.0 Snack.io
+0.0.0.0 Snail.io
+0.0.0.0 Snakeblast.io
+0.0.0.0 SnakePit.io
+0.0.0.0 Snaker.io
+0.0.0.0 Snix.io
+0.0.0.0 Snowball.io
+0.0.0.0 SnowFight.io
+0.0.0.0 SnowHeroes.io
+0.0.0.0 Space.io
+0.0.0.0 Space1.io
+0.0.0.0 Spaceships.io
+0.0.0.0 SplashWars.io
+0.0.0.0 Splix.io
+0.0.0.0 Stabfish.io
+0.0.0.0 StarBlast.io
+0.0.0.0 Starve.io
+0.0.0.0 Stomped.io
+0.0.0.0 Stug.io
+0.0.0.0 Superhex.io
+0.0.0.0 Superorbit.io
+0.0.0.0 supersnake.io
+0.0.0.0 Suprem.io
+0.0.0.0 Suroi.io
+0.0.0.0 Surviv.io
+0.0.0.0 Taming.io
+0.0.0.0 Tankar.io
+0.0.0.0 Tanksmith.io
+0.0.0.0 tankwars.io
+0.0.0.0 Tanx.io
+0.0.0.0 Tenk.io
+0.0.0.0 Tenz.io
+0.0.0.0 Territorial.io
+0.0.0.0 TETR.IO
+0.0.0.0 Tiles.io
+0.0.0.0 Tron.io
+0.0.0.0 Twix.io
+0.0.0.0 vanar.io
+0.0.0.0 vanis.io
+0.0.0.0 vertix.io
+0.0.0.0 Venge.io
+0.0.0.0 Voar.io
+0.0.0.0 Voxiom.io
+0.0.0.0 Warcall.io
+0.0.0.0 Wilds.io
+0.0.0.0 Wormate.io
+0.0.0.0 Wormax.io
+0.0.0.0 WormsZone.io
+0.0.0.0 Wreckit.io
+0.0.0.0 Writhe.io
+0.0.0.0 Xess.io
+0.0.0.0 Xgun.io
+0.0.0.0 Xpilot.io
+0.0.0.0 YORG.io
+0.0.0.0 Zlap.io
+0.0.0.0 Zlax.io
+0.0.0.0 ZombieCraft.io
+0.0.0.0 Zombs.io
